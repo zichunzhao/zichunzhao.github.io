@@ -4,9 +4,9 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf)
+[English CV [PDF]](https://github.com/zichunzhao/zichunzhao.github.io/blob/main/files/cv/Zichun_CV.pdf)
 
-[Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf)
+[Chinese CV [PDF]]
 
 # Contact
 1280 Main Street West. Hamilton, Ontario, Canada  L8S 4L8.<br>
