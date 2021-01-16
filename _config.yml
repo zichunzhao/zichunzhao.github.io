@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jian Li"
+locale                   : "en-Canada"
+title                    : "Zichun Zhao"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
+name                     : &name "Zichun Zhao"
+description              : &description "PhD student in Economics at McMaster University, Canada"
 url                      : https://zichunzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "zichunzhao/zichunzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,35 +77,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
-  avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-  location         : "Beijing, China"
+  name             : "Zichun Zhao"
+  avatar           : "avatar.png" 
+  bio              : "PhD student in Economics at McMaster University"
+  location         : "Hamilton, ON, Canada"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6-cTZxkAAAAJ"
+  email            : "zhaoz137@mcmaster.ca"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  # facebook         : "profile.php?id=100008003527316"
+  facebook         :
   foursquare       :
-  github           : "superlj666"
+  github           : "zichunzhao"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         : "https://ca.linkedin.com/in/zichun-zhao-782166154"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : # "u/2200292887"
+  weibo            : 
   xing             :
   youtube          : 
   wikipedia        : 
