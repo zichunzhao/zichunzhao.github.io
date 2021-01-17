@@ -1,13 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/
 ---
 
-# ECON 2HH3
+## <b>Teaching Assistant<b/>, McMaster University
 ======
-bla bla bla
+* ECON 2HH3 Intermediate Macroeconomics II, Winter 2021
+* ECON 3H03 International Monetary Economics, Fall 2020
 
 
 
