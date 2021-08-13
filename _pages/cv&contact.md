@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://github.com/zichunzhao/zichunzhao.github.io/blob/main/files/cv/Zichun_CV.pdf)
+[English CV [PDF]](https://github.com/zichunzhao/zichunzhao.github.io/blob/main/files/cv/Zichun_Zhao_CV.pdf)
 
 [Chinese CV [PDF]]
 
