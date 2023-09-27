@@ -3,7 +3,6 @@ title: "Research ([Google Scholar Profile](https://scholar.google.com/citations?
 permalink: /publications/
 author_profile: true
 ---
-## 2019
 * <b>Zichun Zhao</b>, <i>"Cancer, Financial Burden and Health Insurance" Work in progress. </i>.<br>
 * <b>Zichun Zhao</b>, <i>"The Spillover Effect of Public Prescription Drug Insurance Expansion: Evidence from OHIP+." Working Paper. </i>.<br>
 * <b>Zichun Zhao</b>, and Michel Grignon  <i>"Minimum Wage and Employer-Sponsored Supplementary Health Insurance: Evidence from Canada". Working Paper</i><br>
