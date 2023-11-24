@@ -12,12 +12,3 @@ author_profile: true
   
 * <b>Zichun Zhao</b>, and Michel Grignon  <i>"Minimum Wage and Employer-Sponsored Supplementary Health Insurance: Evidence from Canada". Working Paper</i><br>
     Abstract: This study explores the effect of increases in the minimum wage on the probability of receiving supplementary prescription drug insurance through the workplace in Canada: Do Canadian employers respond to higher minimum wage by reducing insurance coverage? We use self-reports on supplementary health insurance through the workplace from seven waves (2013 to 2019) of the Canadian Community Health Survey. We also use the fact that the minimum wage is a provincial jurisdiction in Canada to study the effects of the level of and changes in the minimum wage across provinces and over time in a difference-in-difference and triple-differences framework. Our main findings are that the level of the minimum wage has almost no effect on prescription drug insurance provision by employers within the range of values observed in Canada between 2013 and 2019; however, a small proportion of employers react to large yearly changes (30 cents and above) by temporarily cutting back on prescription drug benefits.  
-
-  
-* Batu, Michael, and <b>Zichun Zhao</b>.  <i>"The Sun's wrath: economic effects of sunspot volatility." Economics Bulletin 41, no. 1 (2021): 117-124.</i><br>
-
-
-
-
-
-
