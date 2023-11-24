@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Resume & Curriculum Vitae"
 permalink: /cv&contact/
 author_profile: true
 ---
